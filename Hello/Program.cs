@@ -7,7 +7,7 @@ namespace Hello
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("Onsdag");
+            Console.WriteLine("Idag är det onsdag");
         }
     }
 }
